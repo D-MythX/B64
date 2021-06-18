@@ -1,4 +1,4 @@
-# Base64 Encoder and Decoder for Texts and Images
+# <p align="center"> Base64 Encoder and Decoder for Texts and Images </p>
 
  apt install update
 
