@@ -8,7 +8,7 @@
 
  apt install python
 
- $home
+ cd $home
 
  gitclone https://github.com/D-MythX/B64
 
