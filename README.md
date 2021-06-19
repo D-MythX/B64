@@ -14,16 +14,13 @@ python req.py
 python b64.py
 ```
 
-# + 
+# <p align="center"> + </p>
 It can accept and save in text files.
 
-# Made by
-```
-~ MY7H 
-
+# <p align="center">Made by </p>
+**MY7H**
 <a href="https://github.com/D-MythX" >
-```
+
 # <p align="center">Credits</p>
-```
 <a href="https://github.com/TermuxHackz">
-```
+
