@@ -19,8 +19,8 @@ It can accept and save in text files.
 
 # <p align="center">Made by </p>
 **MY7H**
-<a href="https://github.com/D-MythX" >
+<a href="https://github.com/D-MythX" >Follow..<a>
 
 # <p align="center">Credits</p>
-<a href="https://github.com/TermuxHackz">
+<a href="https://github.com/TermuxHackz">Mr. Shell</a>
 
