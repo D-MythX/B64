@@ -1,6 +1,7 @@
-# <p align="center"> Base64 Encoder and Decoder for Texts and Images </p>
+# <p align="center"> B64 </p>
+**Base64 Encoder and Decoder for Texts and Images**
 
-# <center>Cloning</center>
+# <p align="center">Cloning</p>
 ```
 apt install update
 apt install upgrade
@@ -13,6 +14,16 @@ python req.py
 python b64.py
 ```
 
-# + It can accept and save in text files.
+# + 
+It can accept and save in text files.
 
-# 
+# Made by
+```
+~ MY7H 
+
+<a href="https://github.com/D-MythX" >
+```
+# <p align="center">Credits</p>
+```
+<a href="https://github.com/TermuxHackz">
+```
