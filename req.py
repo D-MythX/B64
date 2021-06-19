@@ -12,7 +12,7 @@ w = "\033[2;37m"
 e = "\033[0m"
 
 os.system("clear")
-print(g+"["+w+"~"+g+"]"+y+" GETTING REQUIREMENTS;!!..\n"+e)
+print(g+"["+w+"~"+g+"]"+y+" GETTING REQUIREMENTS!!!..\n"+e)
 time.sleep(0.5)
 os.system("cd $home")
 os.system("apt update")
