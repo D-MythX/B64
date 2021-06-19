@@ -1,6 +1,6 @@
 # <p align="center"> Base64 Encoder and Decoder for Texts and Images </p>
 
-# <center>Cloning<c/center>
+# <center>Cloning</center>
 ```
 apt install update
 apt install upgrade
@@ -13,4 +13,6 @@ python req.py
 python b64.py
 ```
 
-# + It accepts and saves in text files.
+# + It can accept and save in text files.
+
+# 
