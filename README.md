@@ -5,11 +5,11 @@
 
 # <p align="center">Cloning</p>
 ```
+cd $home
 apt install update
 apt install upgrade
 apt install git
 apt install python
-cd $home
 git clone https://github.com/D-MythX/B64
 cd B64
 python req.py
