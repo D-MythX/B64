@@ -1,3 +1,5 @@
+![](b64.jpg)
+
 # <p align="center"> B64 </p>
 **Base64 Encoder and Decoder for Texts and Images**
 
