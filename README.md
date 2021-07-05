@@ -25,6 +25,6 @@ It can accept and save in text files.
 <a href="https://github.com/D-MythX" >Follow please..<a>
 
 # <p align="center">Credits</p>
-**>>  **
-<a href="https://github.com/TermuxHackz">Mr. Shell</a>
+**>>**
+<a href="https://github.com/TermuxHackz">  Mr. Shell</a>
 
