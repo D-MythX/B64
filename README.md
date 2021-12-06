@@ -26,5 +26,5 @@ It can accept and save in text files.
 
 # <p align="center">Credits</p>
 **>>**
-<a href="https://github.com/TermuxHackz">  Mr. Shell</a> <a href="https://github.com/ebbieaden"> Ebbie</a>
+<a href="https://github.com/TermuxHackz">  Mr. Shell</a>  &  <a href="https://github.com/ebbieaden"> Ebbie</a>
 
